@@ -30,6 +30,6 @@ Another way to explore the policy space is to use **genetic algorithms**. For ex
 
 ###### Policy Gradients(PG)
 
-Another approach is to use **optimization techniques**, by evaluating the gradients of the rewards with regard to the policy parameters, then tweaking these parameters by following the gradients toward higher rewards.
+Another approach is to use **optimization techniques**, by evaluating the gradients of the rewards with regard to the policy parameters, then tweaking these parameters by following the gradients toward higher rewards..
 
 ***This is called Gradient Ascent. It’s just like Gradient Descent but in the opposite direction: maximizing instead of minimizing.***
